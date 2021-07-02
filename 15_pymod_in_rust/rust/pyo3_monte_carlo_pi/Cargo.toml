@@ -1,0 +1,17 @@
+[package]
+name = "pyo3_monte_carlo_pi"
+version = "0.1.0"
+authors = ["Bedroom Builds"]
+edition = "2018"
+
+[lib]
+name = "montecarlopi"
+crate-type = ["cdylib"]
+
+[dependencies]
+monte_carlo_pi = {path = "../monte_carlo_pi"}
+
+[dependencies.pyo3]
+version = "0.13.1"
+features = ["extension-module"]
+
