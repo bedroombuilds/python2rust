@@ -1,5 +1,5 @@
 # From Python to Rust
 
-Source-code for bedroombuilds Youtube series introducing Rust to Python programmers.
+Source code for my bedroombuilds Youtube series introducing the Rust programming language to Python programmers.
 
-see YouTube Playlist: [From Python to Rust](https://www.youtube.com/playlist?list=PLEIv4NBmh-GsWGE9mY3sF9c5lgh5Z_jLr)
+Episodes can be found on the YouTube Playlist: [From Python to Rust](https://www.youtube.com/playlist?list=PLEIv4NBmh-GsWGE9mY3sF9c5lgh5Z_jLr)
