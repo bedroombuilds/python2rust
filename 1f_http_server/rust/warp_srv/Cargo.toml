@@ -1,0 +1,11 @@
+[package]
+name = "warp_srv"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde_json = "1.0.64"
+tokio = { version = "1", features = ["full"] }
+warp = "0.3"
