@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<cd-list xmlns="">
+	<title>My (reduced) Hard Bop list</title>
+	<cd>
+		<artist country="US">John Coltrane</artist>
+		<title>Blue Train</title>
+		<genre>Jazz</genre>
+		<description>
+		     <heading>From Wikipedia: </heading>
+             <p>The album was recorded in the midst of Coltrane's residency at the
+Five Spot as a member of the Thelonious Monk quartet. The personnel...</p>
+		</description>
+		<track-list>
+			<track no="1">
+				<title>Blue Train</title>
+				<artist>John coltrane</artist>
+				<genre>Blues</genre>
+			</track>
+			<track no="4">
+				<title>Moment's Notice</title>
+				<artist>John coltrane</artist>
+				<genre>Hard Bop</genre>
+			</track>
+		</track-list>
+	</cd>
+	<cd>
+		<artist country="US">Art Blakey</artist>
+		<title>Moanin'</title>
+	</cd>
+</cd-list>
