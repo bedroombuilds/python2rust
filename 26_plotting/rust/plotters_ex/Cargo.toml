@@ -1,0 +1,21 @@
+[package]
+name = "plotters_ex"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+plotters-svg = {version = "^0.3.*", optional = true}
+plotters = "0.3.1"
+serde = "1.0.127"
+serde_derive = "1.0.127"
+serde_json = "1.0.66"
+
+[dependencies.plotters-backend]
+version = "^0.3"
+
+[dependencies.plotters-bitmap]
+version = "^0.3"
+optional = true
+default_features = false
